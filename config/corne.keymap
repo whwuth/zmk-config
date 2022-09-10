@@ -58,10 +58,10 @@
 
         Layer__3 {
             bindings = <
- &trans  &kp LA(LS(NUMBER_1))  &kp LA(LS(NUMBER_2))  &kp LA(LS(NUMBER_3))  &kp LA(LS(NUMBER_4))  &kp LA(LS(NUMBER_5))    &kp LA(LS(N6))    &kp LA(LS(N7))    &kp LA(LS(N8))    &kp LA(LS(N9))    &kp LA(LS(N0))  &trans
- &trans            &kp LA(N1)            &kp LA(N2)            &kp LA(N3)      &kp LA(NUMBER_4)      &kp LA(NUMBER_5)  &kp LA(NUMBER_6)  &kp LA(NUMBER_7)  &kp LA(NUMBER_8)  &kp LA(NUMBER_9)  &kp LA(NUMBER_0)  &trans
- &trans                &trans                &trans                &trans                &trans                &trans            &trans            &trans            &trans            &trans            &trans  &trans
-                                                                   &trans                &trans                &trans            &trans            &trans            &trans
+ &trans  &kp LA(LS(NUMBER_1))      &kp LA      &kp LA            &kp LA            &kp LA            &kp LA            &kp LA            &kp LA            &kp LA            &kp LA  &trans
+ &trans            &kp LA(N1)  &kp LA(N2)  &kp LA(N3)  &kp LA(NUMBER_4)  &kp LA(NUMBER_5)  &kp LA(NUMBER_6)  &kp LA(NUMBER_7)  &kp LA(NUMBER_8)  &kp LA(NUMBER_9)  &kp LA(NUMBER_0)  &trans
+ &trans                &trans      &trans      &trans            &trans            &trans            &trans            &trans            &trans            &trans            &trans  &trans
+                                               &trans            &trans            &trans            &trans            &trans            &trans
             >;
         };
     };
